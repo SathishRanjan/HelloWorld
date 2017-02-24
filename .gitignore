@@ -7,7 +7,7 @@
 
 # Java class files
 *.class
-
+dsa
 # Generated files
 bin/
 gen/
